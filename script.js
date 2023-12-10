@@ -8,4 +8,3 @@ const toggleMenu = () => {
 const Y = new Date();
 let year = document.querySelector("#year");
 year.textContent = Y.getFullYear();
-
